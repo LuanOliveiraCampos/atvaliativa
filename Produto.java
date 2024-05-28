@@ -1,5 +1,3 @@
-package com.example.crud;
-
 import java.io.Serializable;
 
 public class Produto implements Serializable {
